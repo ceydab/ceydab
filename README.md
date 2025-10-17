@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Ceyda B. Dag, a prospective master's degree graduate from UZH.
+
+I am currently working on my thesis on image generation.
+
+### Contact Me
+Linkedin: [Ceyda B. Dag ](https://www.linkedin.com/in/ceyda-b-dag/)
