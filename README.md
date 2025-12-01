@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Ceyda B. Dag, a master's degree student at UZH.
 
-I am currently working on verblingo project for German language practice.
+I am currently working on webdev project, Verblingo for German language practice.
 
 ### Contact Me
 Linkedin: [Ceyda B. Dag ](https://www.linkedin.com/in/ceyda-b-dag/)
